@@ -6,3 +6,8 @@ student1:amritha
 student2:naveena
 student3:athira
 student4:akash
+
+student 5: Degil
+student 6:riya
+student 7:aishu
+student 8:al-ameen
